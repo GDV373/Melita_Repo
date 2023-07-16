@@ -3,4 +3,4 @@ spring:
     config:
       server:
         git:
-          url: https://github.com/GDV373/Melita_Repo
+          url: https://github.com/GDV373/Melita_Repo_Config_Files
